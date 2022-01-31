@@ -1,0 +1,17 @@
+.header{
+    background-color: #004e98;
+    padding: 5px 0;
+    justify-content: space-between;
+}
+.button{
+    border: none;
+    border-radius: 5px;
+    background-color: #004e98 ;/*#3a6ea5;*/
+    color: #f1f1f1;
+    cursor: pointer;
+    outline: none;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 20px;
+    padding: 13px 10px;
+}
